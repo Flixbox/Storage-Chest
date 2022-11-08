@@ -1,6 +1,10 @@
 # Storage Chest for RimWorld
 
-An update to the storage chest mod by Lyn. Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2490257215
+An update to the storage chest mod by Lyn. 
+
+Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2490257215
+
+Updated mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2885980452
 
 Changes:
 
