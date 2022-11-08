@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-
     <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="FX_Chest"]/researchPrerequisites</xpath>
+        <xpath>Defs/ThingDef[defName="FX_Chest"]/researchPrerequisites/li[text()="ComplexFurniture"]</xpath>
         <value>
-            <researchPrerequisites>
-                <li>IS_MedievalStorage</li>
-            </researchPrerequisites>
+            <li>IS_MedievalStorage</li>
         </value>
     </Operation>
-
 </Patch>

@@ -51,7 +51,7 @@
       <li><compClass>CompQuality</compClass> -->
       </li>
     </comps>
-    <researchPrerequisites>
+    <researchPrerequisites Inherit="False">
       <li>ComplexFurniture</li>
     </researchPrerequisites>
   </ThingDef>
