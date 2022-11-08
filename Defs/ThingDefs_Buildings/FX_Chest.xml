@@ -2,7 +2,7 @@
 <Defs>
 
   <ThingDef ParentName="LWM_DeepStorage">
-    <defName>Chest</defName>
+    <defName>FX_Chest</defName>
     <label>chest</label>
     <description>A small chest that can be used to store items.</description>
     <graphicData>
